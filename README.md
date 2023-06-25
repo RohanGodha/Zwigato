@@ -1,6 +1,3 @@
-# zomato-landing-page-10522
+# Zwigato Landing Page
 
 Replication of zomato.com landing page
-
-Adding a Line to README.md!!!!!
-
