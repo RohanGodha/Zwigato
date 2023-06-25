@@ -1,2 +1,6 @@
-# Zwigato
-Zwigato = Zomato+Swiggy. So it is a similar UI of Zomato Using HTML, CSS and Animation.
+# zomato-landing-page-10522
+
+Replication of zomato.com landing page
+
+Adding a Line to README.md!!!!!
+
