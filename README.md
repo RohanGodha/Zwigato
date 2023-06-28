@@ -7,4 +7,4 @@
 <ol> Implemented media queries and animations to enhance the responsiveness and interactivity of the website. </ol>
 
 Zwigato = Zomato+Swiggy. So it is a similar UI of Zomato Using HTML, CSS and Animation.
-[rohangodha.github.io/Zwigato/](https://rohangodha.github.io/Zwigato/)https://rohangodha.github.io/Zwigato/
+https://rohangodha.github.io/Zwigato/
